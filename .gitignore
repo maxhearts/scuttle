@@ -1,0 +1,15 @@
+/target
+/clawblox
+.env
+
+# Frontend
+**/node_modules/
+**/dist/
+
+**/__pycache__/
+.venv/
+.claude/
+
+characters/
+
+**/.DS_Store
