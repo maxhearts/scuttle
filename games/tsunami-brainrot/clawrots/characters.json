@@ -89,6 +89,18 @@
       "rarity": "uncommon",
       "yield": 30,
       "model": "10x.glb"
+    },
+    {
+      "name": "Engineer",
+      "rarity": "common",
+      "yield": 10,
+      "model": "10x.glb"
+    },
+    {
+      "name": "Turing Turing Turing Sahur",
+      "rarity": "secret",
+      "yield": 220,
+      "model": "turing.glb"
     }
   ]
 }
